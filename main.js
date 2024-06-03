@@ -24,14 +24,3 @@ stop.addEventListener('click', function(){
     clearInterval(interval)
     body.style.backgroundColor = 'white'
 })
-
-// function sayH(str){
-//     console.log(str);
-// }
-
-// startButton.addEventListener('click',function() {
-//     interval = setInterval(sayH,1000,'H')
-// })
-// stopButton.addEventListener('click',function() {
-//     clearInterval(interval)
-// })
